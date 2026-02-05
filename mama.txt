@@ -1,0 +1,6 @@
+Python is a general-purpose, dynamically typed, high-level, compiled,
+ interpreted, garbage-collected, and purely object-oriented programming language that
+ supports procedural, object-oriented, and functional programming.
+ oooo
+ iii
+
